@@ -14,16 +14,15 @@
 <section>
 <h2>Step 1: Copy the Embed Code</h2>
 <p>Go to the video hosting site (like YouTube or Vimeo), click on "Share" and then "Embed". Copy the provided HTML embed code.</p>
-<img src="https://github.com/user-attachments/assets/c22a933f-eba5-4067-a2f7-118c52cab8ff" />
-"
-
->
+<a href="https://github.com/user-attachments/assets/c22a933f-eba5-4067-a2f7-118c52cab8ff" target="blank">
+  <img src="https://github.com/user-attachments/assets/c22a933f-eba5-4067-a2f7-118c52cab8ff" alt="Screenshot" width="300"
+    </a>
 </section>
 
 <section>
 <h2>Step 2: Paste the Embed Code in Your HTML</h2>
 <p>Open your HTML file in a code editor and paste the embed code where you want the video to appear.</p>
-<img src="step2.png" alt="Screenshot of pasting code in HTML">
+<img src="">
 </section>
 
 <section>

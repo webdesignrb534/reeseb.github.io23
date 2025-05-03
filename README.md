@@ -22,7 +22,9 @@
 <section>
 <h2>Step 2: Paste the Embed Code in Your HTML</h2>
 <p>Open your HTML file in a code editor and paste the embed code where you want the video to appear.</p>
-<img src="">
+<a href="https://github.com/user-attachments/assets/1ffd6bfa-5aa6-4242-802e-1aa2fe595b59" target="blank">
+  <img src="https://github.com/user-attachments/assets/1ffd6bfa-5aa6-4242-802e-1aa2fe595b59" alt="Screenshot" width="300"
+    </a>
 </section>
 
 <section>

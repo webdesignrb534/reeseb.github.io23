@@ -1,5 +1,3 @@
-<img width="1696" alt="Screenshot 2025-05-02 at 7 53 55 PM" src="https://github.com/user-attachments/assets/61e591bc-2908-44d7-b079-33bba853a93b" />
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -16,7 +14,7 @@
 <section>
 <h2>Step 1: Copy the Embed Code</h2>
 <p>Go to the video hosting site (like YouTube or Vimeo), click on "Share" and then "Embed". Copy the provided HTML embed code.</p>
-<img src="Uploading Screenshot 2025-05-02 at 7.53.55 PM.png…"
+<img src="<img width="1696" alt="Screenshot 2025-05-02 at 7 53 55 PM" src="https://github.com/user-attachments/assets/61e591bc-2908-44d7-b079-33bba853a93b" />"
 
 >
 </section>

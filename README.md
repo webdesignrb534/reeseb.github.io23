@@ -16,7 +16,8 @@
 <section>
 <h2>Step 1: Copy the Embed Code</h2>
 <p>Go to the video hosting site (like YouTube or Vimeo), click on "Share" and then "Embed". Copy the provided HTML embed code.</p>
-<img src="step1.png" alt="Screenshot of copying embed code">
+<img src="step1.png" alt="<img width="1696" alt="Screenshot 2025-05-02 at 7 53 55 PM" src="https://github.com/user-attachments/assets/c0b0e959-a81f-4243-843b-8189db8cd677" />
+>
 </section>
 
 <section>

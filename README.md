@@ -30,7 +30,7 @@
 <section>
 <h2>Step 3: Save and View Your File</h2>
 <p>Save the file and open it in a browser to make sure the video appears and works properly.</p>
-<a "href= https://github.com/user-attachments/assets/bbc0c468-1a96-41fb-b0de-19bb1b04b35e" target="blank">
+<a href="https://github.com/user-attachments/assets/bbc0c468-1a96-41fb-b0de-19bb1b04b35e" target="blank">
 <img src="https://github.com/user-attachments/assets/bbc0c468-1a96-41fb-b0de-19bb1b04b35e" />
 ">
 </section>

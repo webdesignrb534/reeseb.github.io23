@@ -44,10 +44,4 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 </section>
-</main>
 
-<footer>
-<p>Tutorial created for web design class.</p>
-</footer>
-</body>
-</html>
